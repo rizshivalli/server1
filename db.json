@@ -1,0 +1,196 @@
+{
+  "mobile_notifications": [
+    {
+      "id": 0,
+      "NotificationHeading": "sunt aut facere",
+      "NotificationMessage": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit ",
+      "NotificationDate": "12/10/2019"
+    },
+    {
+      "id": 1,
+      "NotificationHeading": "qui est esse",
+      "NotificationMessage": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis ",
+      "NotificationDate": "13/10/2019"
+    },
+    {
+      "id": 2,
+      "NotificationHeading": "ea molestias",
+      "NotificationMessage": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus",
+      "NotificationDate": "14/11/2019"
+    },
+    {
+      "id": 3,
+      "NotificationHeading": "eum et est",
+      "NotificationMessage": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum",
+      "NotificationDate": "15/11/2019"
+    }
+  ],
+  "email_notifications": [
+    {
+      "id": 0,
+      "NotificationHeading": "nesciunt quas odio",
+      "NotificationMessage": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed",
+      "NotificationDate": "11/10/2019"
+    },
+    {
+      "id": 1,
+      "NotificationHeading": "eum magni eos",
+      "NotificationMessage": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia ",
+      "NotificationDate": "19/10/2019"
+    },
+    {
+      "id": 2,
+      "NotificationHeading": "magnam facilis",
+      "NotificationMessage": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+      "NotificationDate": "24/11/2019"
+    },
+    {
+      "id": 3,
+      "NotificationHeading": "dolorem dolore est",
+      "NotificationMessage": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus",
+      "NotificationDate": "25/11/2019"
+    },
+    {
+      "id": 4,
+      "NotificationHeading": "ea molestias",
+      "NotificationMessage": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus",
+      "NotificationDate": "26/11/2019"
+    },
+    {
+      "id": 5,
+      "NotificationHeading": "eum et est",
+      "NotificationMessage": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum",
+      "NotificationDate": "17/11/2019"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "NotificationSettings": [
+    {
+      "mobile_notifications": [
+        {
+          "id": 0,
+          "NotificationType": "Receive offers and discounts",
+          "enabled": false
+        },
+        {
+          "id": 1,
+          "NotificationType": "Receive updates to pitstops and products",
+          "enabled": true
+        },
+        {
+          "id": 2,
+          "NotificationType": "Receive locational based offers",
+          "enabled": false
+        }
+      ],
+      "email_notifications": [
+        {
+          "id": 0,
+          "NotificationType": "Receive your receipts",
+          "enabled": true
+        },
+        {
+          "id": 1,
+          "NotificationType": "Receive updates to pitstops and products",
+          "enabled": false
+        }
+      ]
+    }
+  ],
+  "donations": [
+    {
+      "img": "https://i.ibb.co/qpdjPFx/home-sale.png",
+      "Heading": "non proident",
+      "SubHeading": "Lorem ipsum",
+      "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "id": 0
+    },
+    {
+      "img": "https://i.ibb.co/FmN3x8k/home-less.png",
+      "Heading": "sunt in culpa",
+      "SubHeading": "dolor sit amet",
+      "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "id": 1
+    },
+    {
+      "img": "https://i.ibb.co/qpdjPFx/home-sale.png",
+      "Heading": "qui officia",
+      "SubHeading": "consectetur",
+      "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "id": 2
+    },
+    {
+      "img": "https://i.ibb.co/qpdjPFx/home-sale.png",
+      "Heading": "deserunt",
+      "SubHeading": "adipiscing",
+      "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "id": 3
+    },
+    {
+      "img": "https://i.ibb.co/FmN3x8k/home-less.png",
+      "Heading": "anim id",
+      "SubHeading": "elit, sed do",
+      "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "id": 4
+    },
+    {
+      "img": "https://i.ibb.co/qpdjPFx/home-sale.png",
+      "Heading": "est laborum",
+      "SubHeading": "eiusmod",
+      "Desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor inviduntLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt",
+      "id": 5
+    }
+  ],
+  "MyPurchases": [
+    {
+      "id": 1,
+      "products": "",
+      "location": "",
+      "date": "",
+      "cost": 10,
+      "costInPoints": 4
+    },
+    {
+      "id": 2,
+      "products": "",
+      "location": "",
+      "date": "",
+      "cost": 7,
+      "costInPoints": 2
+    },
+    {
+      "id": 3,
+      "products": "",
+      "location": "",
+      "date": "",
+      "cost": 6,
+      "costInPoints": 2
+    },
+    {
+      "id": 4,
+      "products": "",
+      "location": "",
+      "date": "",
+      "cost": 12,
+      "costInPoints": 6
+    },
+    {
+      "id": 5,
+      "products": "",
+      "location": "",
+      "date": "",
+      "cost": 10,
+      "costInPoints": 4
+    },
+    {
+      "id": 6,
+      "products": "",
+      "location": "",
+      "date": "",
+      "cost": 7,
+      "costInPoints": 2
+    }
+  ]
+}
